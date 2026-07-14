@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated output files
+output/
+
+# Python cache directories
+.pytest_cache/
+
+# Windows
+Thumbs.db
+Desktop.ini
