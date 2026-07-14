@@ -252,6 +252,7 @@ def main():
 
         print(f"\nRun {run + 1}/{NUM_RUNS}")
 
+        # parameters = (x1, x2, r)
         parameters = (
             random.uniform(0.1, 0.9),
             random.uniform(0.1, 0.9),
