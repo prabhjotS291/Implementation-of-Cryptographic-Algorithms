@@ -162,6 +162,17 @@ Generated outputs are stored in the `output` directory.
 
 ---
 
+## Dataset
+
+The encryption algorithms in this project are evaluated using a PNG image located in the `input` directory.
+
+**Image Source:**
+https://example.com/your-image-link
+
+The same image is used as the input for all encryption algorithms to ensure a fair and consistent comparison of their performance and security metrics.
+
+---
+
 ## Future Improvements
 
 - Improve diffusion stage of the chaotic map algorithm
