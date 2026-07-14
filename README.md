@@ -167,7 +167,7 @@ Generated outputs are stored in the `output` directory.
 The encryption algorithms in this project are evaluated using a PNG image located in the `input` directory.
 
 **Image Source:**
-https://example.com/your-image-link
+https://4kwallpapers.com/bikes/indian-scout-bobber-22360.html
 
 The same image is used as the input for all encryption algorithms to ensure a fair and consistent comparison of their performance and security metrics.
 
